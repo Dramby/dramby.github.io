@@ -1,0 +1,55 @@
+#image {
+  max-width:100%;
+  height:auto;
+  display:block;
+  margin:auto;
+  width:800px;
+  
+}
+
+#title {
+  text-align:center;
+  color:silver;
+}
+
+#republic-timeline {
+  text-align:center;
+  
+}
+  
+#lista {
+  text-align:center;
+}
+
+
+
+#img-caption{
+  width:800px;
+ margin:auto;
+  border: 3px solid white;
+}
+#tribute-info{
+  width:1000px;
+  margin:auto;
+  
+}
+#augustus {
+  width:1000px;
+  margin:auto;
+}
+#auguststatue {
+  width:1000px;
+
+  border: 3px solid white;
+  margin-top:20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#augustdescription {
+text-align: center;
+  color:orange;
+
+
